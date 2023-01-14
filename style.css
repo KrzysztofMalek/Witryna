@@ -12,3 +12,13 @@ body {
 .main-navbar {
 	background-color: rgba(0, 0, 0, 0.855);
 }
+.card-text-modyfied {
+	text-align: center;
+	color: red;
+	font-weight: 1000;
+	font-size: 15px;
+}
+
+.card-text-modyfied a {
+	font-size: 20px;
+}
