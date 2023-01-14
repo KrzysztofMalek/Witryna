@@ -1,0 +1,11 @@
+:root {
+	--primary: #f4ff61;
+	--secondary: #161618;
+	--roboto: 'Roboto', sans-serif;
+}
+
+body {
+	background-color: var(--secondary);
+	height: 100vh;
+	overflow-x: hidden;
+}
