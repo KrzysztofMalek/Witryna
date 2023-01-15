@@ -29,6 +29,29 @@ body {
 .dropdown-item {
 	color: #fff;
 }
+.slider {
+	background-color: #181818;
+	height: 100vh;
+	display: flex;
+	align-items: center;
+}
+
+.name {
+	font-size: 25px;
+	color: var(--primary);
+	text-align: center;
+}
+
+.job {
+	font-size: 90px;
+	font-family: var(--roboto);
+	text-align: center;
+	color: #fff;
+}
+
+
+
+
 
 .slider-image img {
 	width: 100%;
