@@ -4,4 +4,4 @@
 - Krzysztof Małek-kierownik zespolu 
 - Kacper Żurwik-Struktura Strony 
 - Tomasz Skierkiewski-Struktura Strony
-- Piotr Rochomiński - CSS
+- Piotr Rochmiński - CSS
