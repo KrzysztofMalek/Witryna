@@ -49,15 +49,31 @@ body {
 	color: #fff;
 }
 
-
-
-
-
 .slider-image img {
 	width: 100%;
 	position: relative;
 }
+.location {
+	font-size: 40px;
+	font-family: var(--roboto);
+	text-align: center;
+	color: var(--primary);
+}
 
+.description {
+	color: rgba(255, 255, 255, 0.733);
+	text-align: center;
+	font-weight: 400;
+}
+
+@media (max-width: 767px) {
+	.job {
+		font-size: 40px !important ;
+	}
+	.location {
+		font-size: 30px !important;
+	}
+}
 
 
 
